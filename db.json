@@ -26,8 +26,10 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"comsumerInfo": {
-		"jobOptions":[{"jobName":"学生","jobId":"1"},{"jobName":"社会人员","jobId":"2"},{"jobName":"社会人员","jobId":"3"},{"jobName":"政府人员","jobId":"4"},{"jobName":"政府高层","jobId":"5"},{"jobName":"自由职业者","jobId":"6"}],
+
+	"jobOptions":[{"jobName":"学生","jobId":"1"},{"jobName":"社会人员","jobId":"2"},{"jobName":"社会人员","jobId":"3"},{"jobName":"政府人员","jobId":"4"},{"jobName":"政府高层","jobId":"5"},{"jobName":"自由职业者","jobId":"6"}],
+		
+
 		"comsumerInfo":[{
 			"id": 1,
 			"name": "赵卫士",
@@ -85,9 +87,8 @@
 			"tel": "132224569333",
 			"job": {"jobName":"政府高层","jobId":"5"}
 		}
-
 	]
-}
+
 
 	
 	}
