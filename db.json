@@ -124,7 +124,40 @@
 			"documentStatus":"已出库",
 			"optician":"止境大师",
 			"customer":"钱夫人"
-			}]
+			}],
+               "myData":{
+				 "outboundOrder":  [ {
+				"mobilePhoneNumber":"18114447545",
+				"orderAmount":"300",
+				"isMakeMirror":"true",
+				"documentNumber":"YSXM2019153053",
+				"associatedOptometryForm":"YG201120655",
+				"storeOwned":"运河路店",
+				"documentTime":"2019-12-30 11:38:23",
+				"salesPlanForm":"AKB000048",
+				"mirrorMakingStatus":"代加工",
+				"documentStatus":"待支付",
+				"userName":"王大柱",
+				"mirrormaker":"慧光大师"
+			}, {
+				"mobilePhoneNumber":"18114447545",
+				"orderAmount":"440",
+				"isMakeMirror":"true",
+				"documentNumber":"YSXM2019153011",
+				"associatedOptometryForm":"YG201120645",
+				"storeOwned":"西门",
+				"documentTime":"2019-11-30 11:38:23",
+				"salesPlanForm":"AKB000048",
+				"mirrorMakingStatus":"待加工",
+				"documentStatus":"待支付",
+				"userName":"李大燕",
+				"mirrormaker":"散花大师"
+			}
+						      
+						      
+						      ]
+	       
+	       }
 
 
 	
