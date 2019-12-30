@@ -172,7 +172,32 @@
 				"documentStatus":"已取消",
 				"userName":"阿土伯",
 				"paymentType":"支付宝"
-			}]
+			}],
+		       "returnOrder":[{
+			"returnOrderNumber":"YYGQ201915055",
+			"ownedStore":"运河路店",
+			"documentTime":"2019-12-30 16:04:02",
+			"producer":"管理员",
+			"associatedSalesOrder":"XH201120655",
+			"refundAmount":"3434"
+			},{
+			"returnOrderNumber":"YYGQ201932011",
+			"ownedStore":"城河路中心",
+			"documentTime":"2019-12-30 11:04:02",
+			"producer":"管理员",
+			"associatedSalesOrder":"XH201120612",
+			"refundAmount":"3434"
+			},{
+			"returnOrderNumber":"YYGQ201915055",
+			"ownedStore":"丹阳店",
+			"documentTime":"2019-12-30 16:34:02",
+			"producer":"管理员",
+			"associatedSalesOrder":"XH201120623",
+			"refundAmount":"3434"
+			}
+		       
+		       
+		       ]
 	       
 	       }
 
