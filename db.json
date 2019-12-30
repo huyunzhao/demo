@@ -30,7 +30,7 @@
 	"jobOptions":[{"jobName":"学生","jobId":"1"},{"jobName":"社会人员","jobId":"2"},{"jobName":"社会人员","jobId":"3"},{"jobName":"政府人员","jobId":"4"},{"jobName":"政府高层","jobId":"5"},{"jobName":"自由职业者","jobId":"6"}],
 		
 
-		"comsumerInfo":[{
+	"comsumerInfo":[{
 			"id": 1,
 			"name": "赵卫士",
 			"sex": "男",
@@ -95,7 +95,58 @@
 			"age": "10",
 			"job": {"jobName":"政府高层","jobId":"5"}
 		}
-	]
+	],
+        "optometryData":[{
+			"documentDate":"2019-12-30 08:36:07",
+			"optometrist":"王验光",
+			"gender":"男",
+			"documentNumber":"GH22102330",
+			"ownedStore":"运河门店",
+			"telephone":"18114445520",
+			"documentStatus":"已完成",
+			"optician":"智静师",
+			"customer":"阿土伯"
+			},{
+			"documentDate":"2019-12-30 08:36:07",
+			"optometrist":"王验光",
+			"gender":"男",
+			"documentNumber":"GH22102331",
+			"ownedStore":"运河门店",
+			"telephone":"18114445520",
+			"documentStatus":"待支付",
+			"optician":"智静师",
+			"customer":"金贝贝"
+			},{
+			"documentDate":"2019-12-30 08:36:07",
+			"optometrist":"王验光",
+			"gender":"男",
+			"documentNumber":"GH22102555",
+			"ownedStore":"运河门店",
+			"telephone":"18114445520",
+			"documentStatus":"待支付",
+			"optician":"智静师",
+			"customer":"李老板"
+			},{
+			"documentDate":"2019-12-30 08:36:44",
+			"optometrist":"验光王",
+			"gender":"女",
+			"documentNumber":"GH22102301",
+			"ownedStore":"运河门店",
+			"telephone":"18117775520",
+			"documentStatus":"已出库",
+			"optician":"智静师",
+			"customer":"孙小美"
+			},{
+			"documentDate":"2019-12-31 08:36:44",
+			"optometrist":"彦光师傅",
+			"gender":"女",
+			"documentNumber":"GH22102999",
+			"ownedStore":"运河门店",
+			"telephone":"18117775520",
+			"documentStatus":"已出库",
+			"optician":"止境大师",
+			"customer":"钱夫人"
+			}]
 
 
 	
