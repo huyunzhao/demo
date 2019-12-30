@@ -126,7 +126,7 @@
 			"customer":"钱夫人"
 			}],
                "myData":{
-				 "outboundOrder":  [ {
+			"outboundOrder":  [ {
 				"mobilePhoneNumber":"18114447545",
 				"orderAmount":"300",
 				"isMakeMirror":"true",
@@ -152,10 +152,27 @@
 				"documentStatus":"待支付",
 				"userName":"李大燕",
 				"mirrormaker":"散花大师"
-			}
-						      
-						      
-						      ]
+			}],
+		       "salesPlan":[{
+				"orderAmount":"3.30",
+				"phone":"18115678889",
+				"documentNumber":"YSXH2019153053",
+				"ownedStore":"运河路店",
+				"documentTime":"2019-11-02 11:14:56 ",
+				"documentStatus":"待付款",
+				"userName":"陈先生",
+				"paymentType":"微信支付"
+			},
+			{
+				"orderAmount":"333.30",
+				"phone":"18115678889",
+				"documentNumber":"YSXH2019113011",
+				"ownedStore":"运河路店",
+				"documentTime":"2019-11-02 18:14:56 ",
+				"documentStatus":"已取消",
+				"userName":"阿土伯",
+				"paymentType":"支付宝"
+			}]
 	       
 	       }
 
