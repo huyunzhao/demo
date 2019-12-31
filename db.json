@@ -127,6 +127,7 @@
 			}],
 	       "myOptions":{
 	                "goodListOptions":[{
+				"id":"1",	
 				"commodityName":"电竞椅子",
 				"commodityCode":"GD23232",
 				"commodityClassification":"家具",
@@ -138,6 +139,7 @@
 				"ballLens":"tc130",
 				"cylinderLens":"2009"},
 					   {
+						   "id":"2",
 				"commodityName":"白雪魔镜",
 				"commodityCode":"GD23232",
 				"commodityClassification":"魔镜",
@@ -149,6 +151,7 @@
 				"ballLens":"tc444",
 				"cylinderLens":"232"},
 					   {
+						   "id":"3",
 				"commodityName":"以太之镜",
 				"commodityCode":"ccc2232",
 				"commodityClassification":"眼睛",
