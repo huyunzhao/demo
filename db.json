@@ -125,6 +125,43 @@
 			"optician":"止境大师",
 			"customer":"钱夫人"
 			}],
+	       "myOptions":{
+	                "goodListOptions":[{
+				"commodityName":"电竞椅子",
+				"commodityCode":"GD23232",
+				"commodityClassification":"家具",
+				"brand":"好羊牌",
+				"barCode":"01010101",
+				"commodityUnit":"把",
+				"supplier":"好羊总厂",
+				"lensType":"羊眼",
+				"ballLens":"tc130",
+				"cylinderLens":"2009"},
+					   {
+				"commodityName":"白雪魔镜",
+				"commodityCode":"GD23232",
+				"commodityClassification":"魔镜",
+				"brand":"白雪牌",
+				"barCode":"44410101",
+				"commodityUnit":"副",
+				"supplier":"安徒生厂",
+				"lensType":"高档镜片",
+				"ballLens":"tc444",
+				"cylinderLens":"232"},
+					   {
+				"commodityName":"以太之镜",
+				"commodityCode":"ccc2232",
+				"commodityClassification":"眼睛",
+				"brand":"法器牌",
+				"barCode":"01013331",
+				"commodityUnit":"个",
+				"supplier":"黑厂",
+				"lensType":"玻璃材质",
+				"ballLens":"ooc10",
+				"cylinderLens":"ppp"}
+			]
+	       },
+	                  
                "myData":{
 			"outboundOrder":  [ {
 				"mobilePhoneNumber":"18114447545",
