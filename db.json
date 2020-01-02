@@ -137,7 +137,10 @@
 				"supplier":"好羊总厂",
 				"lensType":"羊眼",
 				"ballLens":"tc130",
-				"cylinderLens":"2009"},
+				"cylinderLens":"2009",
+				"unitPrice":"150"
+			},
+					   
 					   {
 						   "id":"2",
 				"commodityName":"白雪魔镜",
@@ -150,6 +153,7 @@
 				"lensType":"高档镜片",
 				"ballLens":"tc444",
 				"cylinderLens":"232"},
+				"unitPrice":"0"
 					   {
 						   "id":"3",
 				"commodityName":"以太之镜",
@@ -161,7 +165,9 @@
 				"supplier":"黑厂",
 				"lensType":"玻璃材质",
 				"ballLens":"ooc10",
-				"cylinderLens":"ppp"}
+				"cylinderLens":"ppp",
+				"unitPrice":"2150"
+					   }
 			]
 	       },
 	                  
