@@ -139,10 +139,9 @@
 				"ballLens":"tc130",
 				"cylinderLens":"2009",
 				"unitPrice":"150"
-			},
-					   
-					   {
-						   "id":"2",
+			}, 
+				{
+				"id":"2",
 				"commodityName":"白雪魔镜",
 				"commodityCode":"GD23232",
 				"commodityClassification":"魔镜",
@@ -152,10 +151,10 @@
 				"supplier":"安徒生厂",
 				"lensType":"高档镜片",
 				"ballLens":"tc444",
-				"cylinderLens":"232"},
-				"unitPrice":"0"
-					   {
-						   "id":"3",
+				"cylinderLens":"232",
+				"unitPrice":"0"},
+				 {
+				"id":"3",
 				"commodityName":"以太之镜",
 				"commodityCode":"ccc2232",
 				"commodityClassification":"眼睛",
