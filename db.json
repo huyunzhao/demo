@@ -135,9 +135,9 @@
 				"barCode":"01010101",
 				"commodityUnit":"把",
 				"supplier":"好羊总厂",
-				"lensType":"羊眼",
-				"ballLens":"tc130",
-				"cylinderLens":"2009",
+				"lensType":"-/+",
+				"ballLens":"-3.00",
+				"cylinderLens":"+3.00",
 				"unitPrice":"150"
 			}, 
 				{
